@@ -1,0 +1,11 @@
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\bin\Debug\RubikSimulator.exe.config
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\obj\Debug\RubikSimulator.csprojResolveAssemblyReference.cache
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\obj\Debug\RubikSimulator.Properties.Resources.resources
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\obj\Debug\RubikSimulator.Simulator.resources
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\obj\Debug\RubikSimulator.csproj.GenerateResource.Cache
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\bin\Debug\RubikSimulator.exe
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\bin\Debug\RubikSimulator.pdb
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\obj\Debug\RubikSimulator.exe
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\obj\Debug\RubikSimulator.pdb
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\bin\Debug\RubikHacker.Common.dll
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikSimulator\bin\Debug\RubikHacker.Common.pdb

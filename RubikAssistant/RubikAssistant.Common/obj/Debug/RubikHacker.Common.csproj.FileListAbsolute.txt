@@ -1,0 +1,5 @@
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\bin\Debug\RubikHacker.Common.dll
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\bin\Debug\RubikHacker.Common.pdb
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\obj\Debug\RubikHacker.Common.csprojResolveAssemblyReference.cache
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\obj\Debug\RubikHacker.Common.dll
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\obj\Debug\RubikHacker.Common.pdb

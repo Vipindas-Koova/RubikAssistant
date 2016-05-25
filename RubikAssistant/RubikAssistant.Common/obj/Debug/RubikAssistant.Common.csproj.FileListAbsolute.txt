@@ -1,0 +1,4 @@
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\bin\Debug\RubikAssistant.Common.dll
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\bin\Debug\RubikAssistant.Common.pdb
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\obj\Debug\RubikAssistant.Common.dll
+D:\A RnD\MyExperiments\RubikAssistant\RubikAssistant\RubikAssistant.Common\obj\Debug\RubikAssistant.Common.pdb
